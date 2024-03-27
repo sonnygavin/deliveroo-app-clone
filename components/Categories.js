@@ -30,6 +30,26 @@ const Categories = () => {
         imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
         title="card 5"
       />
+      <CategoryCard
+        imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
+        title="card 6"
+      />
+      <CategoryCard
+        imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
+        title="card 7"
+      />
+      <CategoryCard
+        imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
+        title="card 8"
+      />
+      <CategoryCard
+        imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
+        title="card 9"
+      />
+      <CategoryCard
+        imgUrl="https://www.odtap.com/wp-content/uploads/2018/10/food-delivery.jpg"
+        title="card 10"
+      />
     </ScrollView>
   );
 };
